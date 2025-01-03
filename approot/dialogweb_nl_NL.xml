@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <messages nplurals="2" plural="n==1 ? 0 : 1">
+
+
+    <message id='Dialog example'>Dialoog voorbeeld</message>
+    <message id='Wt dialogs example'>Wt dialogenvoorbeeld</message>
+    <message id='UseWMessageBox'>Je kunt WMessageBox gebruiken voor simplele modale dialoogvensters</message>
+    <message id='Comfortable?'>Comfortabel?</message>
+    <message id='One liner'>Éénregel venster</message>
+    <message id='To English'>Naar Engels</message>
+    <message id='To Dutch'>Naar Nederlands</message>
+    <message id='Havoc!'>Ravage!</message>
+    <message id='Discard'>Weggooien</message>
+    <message id='Familiar'>Bekend</message>
+    <message id='Go ahead...'>Begin maar...</message>
+    <message id='Information'>Informatie</message>
+    <message id='Approved'>Goedgekeurd</message>
+    <message id='Cancelled!'>Goedgekeurd</message>
+    <message id='Me too!'>Ik ook!</message>
+    <message id='Me neither!'>Ik ook niet!</message>
+    <message id='Unknown result?'>Onbekend resultaat?</message>
+    <message id='Category chart'>Categoriegrafiek</message>
+    <message id='Age category'>Leeftijdscategorie</message>
+    <message id='Number of persons'>Aantal personen</message>
+
+ </messages>

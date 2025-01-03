@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <messages nplurals="2" plural="n==1 ? 0 : 1">
+
+
+    <message id='Dialog example'>Dialog example</message>
+    <message id='Wt dialogs example'>Wt dialogs example</message>
+    <message id='UseWMessageBox'>You can use WMessageBox for simple modal dialog boxes</message>
+    <message id='Comfortable?'>Comfortable?</message>
+    <message id='One liner'>One liner</message>
+    <message id='To English'>To English</message>
+    <message id='To Dutch'>To Dutch</message>
+    <message id='Havoc!'>Havoc!</message>
+    <message id='Discard'>Discard</message>
+    <message id='Familiar'>Familiar</message>
+    <message id='Go ahead...'>Go ahead...</message>
+    <message id='Information'>Information</message>
+    <message id='Approved'>Approved</message>
+    <message id='Cancelled!'>Cancelled!</message>
+    <message id='Me too!'>Me too!</message>
+    <message id='Me neither!'>Me neither!</message>
+    <message id='Unknown result?'>Unknown result?</message>
+    <message id='Category chart'>Category chart</message>
+    <message id='Age category'>Age category</message>
+    <message id='Number of persons'>Number of persons</message>
+
+
+ </messages>
